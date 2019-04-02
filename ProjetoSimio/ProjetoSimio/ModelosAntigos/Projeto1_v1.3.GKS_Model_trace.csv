@@ -1,0 +1,4 @@
+Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
+0,0252418532881878;ModelEntity1.46;Maq1;1.OnEnteredInputBuffer;[Seize] SecondaryResource;Warning executing resource seize request.
+0,0252418532881878;ModelEntity1.46;Maq1;1.OnEnteredInputBuffer;[Seize] SecondaryResource;A potential infinite wait to seize resources has been detected.
+
